@@ -13,7 +13,8 @@ day of week      1 5
 command  /usr/bin/find
 
 Following Expressions are valid : 
-*	any value
-,	value list separator
--	range of values
-/	step values
+
+- "*"	any value
+- ,	value list separator
+- -	range of values
+- /	step values
