@@ -1,0 +1,2 @@
+# detailcron
+cron configuration details
